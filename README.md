@@ -1,2 +1,2 @@
 # learning_yara
-I copied the payloads from online and hope this rule can detect some simple log4j exploits
+I collected the payloads from online during the process of learning yara from THM(tryhackme.cm) room and i haven't tested the rule
